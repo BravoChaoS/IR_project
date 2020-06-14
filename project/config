@@ -1,0 +1,7 @@
+path_root=C:\BCSpace\study\ThisSemester\IR\project\workspace
+dir_source=test_data
+dir_temp=_temp
+fn_indexer=indexer.csv
+fn_doc_id=doc_id.csv
+fn_doc_list=doc_list.csv
+fn_doc_len=doc_len.csv
